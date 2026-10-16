@@ -1,1 +1,21 @@
-{"format":1,"published":"2026-10-15","drops":[]}
+{
+  "format": 1,
+  "published": "2026-10-16",
+  "drops": [
+    {
+      "id": "2026-10-this-week",
+      "game": "trivia",
+      "season": 1,
+      "version": 1,
+      "title": "This Week: Oct 12",
+      "minBuild": 31,
+      "files": [
+        {
+          "path": "trivia-this-week.json",
+          "sha256": "01e5a38760c5130f16f3362c0733da4caff605f6882bd74947e2f2b05a641a3d",
+          "bytes": 9182
+        }
+      ]
+    }
+  ]
+}

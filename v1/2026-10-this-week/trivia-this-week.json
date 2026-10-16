@@ -1,0 +1,288 @@
+{
+ "id": "trivia-this-week",
+ "version": 20261015,
+ "kind": "trending",
+ "title": "This Week",
+ "emoji": "🔥",
+ "color": "pink",
+ "blurb": "What everyone's talking about",
+ "pattern": "meshGradient",
+ "weekOf": "2026-10-12",
+ "expires": "2026-11-02",
+ "questions": [
+  {
+   "id": "week-20261012-01",
+   "question": "The Physics Nobel on Oct 6 went to a man who turned ice into a telescope. Where's the ice?",
+   "options": [
+    "Greenland",
+    "Siberia",
+    "The South Pole",
+    "The Alps"
+   ],
+   "answer": 2,
+   "difficulty": "easy",
+   "fact": "IceCube is a cubic kilometer of ice full of light sensors that catch neutrinos from deep space. Francis Halzen won for it.",
+   "source": "https://www.nobelprize.org/prizes/physics/2026/press-release/",
+   "sourceDate": "2026-10-06",
+   "hint": "Go as far south as the map goes.",
+   "visual": "🧊"
+  },
+  {
+   "id": "week-20261012-02",
+   "question": "Wet Ones put ads all over New York this month. What do the hands in them look like?",
+   "options": [
+    "Spiders",
+    "Faces",
+    "Hearts",
+    "Bare bottoms"
+   ],
+   "answer": 3,
+   "difficulty": "easy",
+   "fact": "The tagline: \"Just for hands. No ifs, ands or butts.\" Wet Ones says the subway found the ads too risqué.",
+   "source": "https://www.mediapost.com/publications/article/418543/wet-ones-butts-in-with-sleight-of-hand-campaign.html",
+   "sourceDate": "2026-10-06",
+   "hint": "Think cheeky, in the literal sense.",
+   "visual": "🖐️",
+   "terms": [
+    {
+     "text": "Wet Ones",
+     "note": "A brand of wet wipes for your hands."
+    }
+   ]
+  },
+  {
+   "id": "week-20261012-03",
+   "question": "Max Verstappen won F1's Singapore Grand Prix on Oct 11. What was new?",
+   "options": [
+    "His 100th win",
+    "A win from last place",
+    "His last race for Red Bull",
+    "His first Singapore win"
+   ],
+   "answer": 3,
+   "difficulty": "medium",
+   "fact": "Ferrari's Charles Leclerc came second and Mercedes' Kimi Antonelli came third.",
+   "source": "https://www.ksl.com/article/51635012/motor-racing-red-bulls-verstappen-cruises-to-first-ever-singapore-grand-prix-victory",
+   "sourceDate": "2026-10-11",
+   "hint": "Marina Bay had always slipped away from him.",
+   "visual": "🏎️",
+   "terms": [
+    {
+     "text": "F1",
+     "note": "Formula 1, the top level of car racing."
+    }
+   ]
+  },
+  {
+   "id": "week-20261012-04",
+   "question": "Greta Gerwig's Narnia trailer came out Oct 13. Who voices Aslan the lion?",
+   "options": [
+    "Cate Blanchett",
+    "Meryl Streep",
+    "Helen Mirren",
+    "Judi Dench"
+   ],
+   "answer": 1,
+   "difficulty": "easy",
+   "fact": "In the trailer, Aslan only roars. The film opens in theaters Feb 12, 2027, then streams on Netflix on April 2.",
+   "source": "https://www.news4jax.com/entertainment/2026/10/13/greta-gerwig-debuts-first-look-at-an-epic-full-hearted-narnia-for-netflix-and-the-big-screen/",
+   "sourceDate": "2026-10-13",
+   "hint": "She has won three Oscars.",
+   "visual": "🦁",
+   "terms": [
+    {
+     "text": "Narnia",
+     "note": "A world of talking animals from C.S. Lewis's books."
+    }
+   ]
+  },
+  {
+   "id": "week-20261012-05",
+   "question": "The Chemistry Nobel on Oct 7 solved a puzzle about molecules that come in pairs. Which pairs?",
+   "options": [
+    "Twins of equal weight",
+    "Mirror images",
+    "Opposite charges",
+    "Hot and cold forms"
+   ],
+   "answer": 1,
+   "difficulty": "hard",
+   "fact": "Like your hands, many molecules come in left and right forms, and life uses only one. Henri Kagan and Kenso Soai showed how that can happen.",
+   "source": "https://www.nobelprize.org/prizes/chemistry/2026/press-release/",
+   "sourceDate": "2026-10-07",
+   "hint": "Hold up both hands and look at them.",
+   "visual": "🧪",
+   "terms": [
+    {
+     "text": "molecules",
+     "note": "The tiny bits that make up a substance."
+    }
+   ]
+  },
+  {
+   "id": "week-20261012-06",
+   "question": "Who became the first Chinese player to win the China Open on Oct 11?",
+   "options": [
+    "Wang Xinyu",
+    "Zhang Shuai",
+    "Zheng Qinwen",
+    "Li Na"
+   ],
+   "answer": 2,
+   "difficulty": "medium",
+   "fact": "She beat Mirra Andreeva 7-5, 6-4 after getting in on a wild card, ranked No. 54.",
+   "source": "https://www.ksl.com/article/51635010/tennis-zheng-overpowers-andreeva-to-win-china-open",
+   "sourceDate": "2026-10-11",
+   "hint": "She's the Olympic champion.",
+   "visual": "🎾",
+   "terms": [
+    {
+     "text": "China Open",
+     "note": "A big yearly tennis event in Beijing."
+    }
+   ]
+  },
+  {
+   "id": "week-20261012-07",
+   "question": "Apple showed off HomeView on Oct 13. What is it?",
+   "options": [
+    "A folding iPhone",
+    "Smart glasses",
+    "A smart home screen",
+    "A smart ring"
+   ],
+   "answer": 2,
+   "difficulty": "easy",
+   "fact": "It has a 7-inch square screen and costs $299 in the US. It can tell up to six people in a home apart.",
+   "source": "https://9to5mac.com/2026/10/13/apple-homeview-announced-features-price-release-date/",
+   "sourceDate": "2026-10-13",
+   "hint": "It lives on your kitchen counter or your wall.",
+   "visual": "🏠"
+  },
+  {
+   "id": "week-20261012-08",
+   "question": "Aaron Sorkin's The Social Reckoning opened the weekend of Oct 9. Which 2010 film did he also write?",
+   "options": [
+    "Inception",
+    "Black Swan",
+    "The King's Speech",
+    "The Social Network"
+   ],
+   "answer": 3,
+   "difficulty": "medium",
+   "fact": "It opened to $5.5 million. Mikey Madison, Jeremy Allen White and Jeremy Strong star.",
+   "source": "https://abcnews.com/Entertainment/wireStory/mommy-tops-box-office-275m-social-reckoning-opens-137178115",
+   "sourceDate": "2026-10-11",
+   "hint": "That one was about Facebook.",
+   "visual": "🎬"
+  },
+  {
+   "id": "week-20261012-09",
+   "question": "A Minnesota grower won the Half Moon Bay pumpkin weigh-off on Oct 12. How heavy was his pumpkin?",
+   "options": [
+    "1,389 lb",
+    "1,889 lb",
+    "2,389 lb",
+    "3,389 lb"
+   ],
+   "answer": 2,
+   "difficulty": "hard",
+   "fact": "Travis Gienger won it. Second place weighed 2,273 lb and came from Rocklin, California.",
+   "source": "https://hmbweighoff.com/results.html",
+   "sourceDate": "2026-10-12",
+   "hint": "It's over a ton but under a ton and a half.",
+   "visual": "🎃",
+   "terms": [
+    {
+     "text": "weigh-off",
+     "note": "A contest to see who grew the heaviest one."
+    }
+   ]
+  },
+  {
+   "id": "week-20261012-10",
+   "question": "The Jaguars beat the Eagles 19-17 on Oct 11 with a 57-yard kick as time ran out. In which city?",
+   "options": [
+    "London",
+    "Jacksonville",
+    "Philadelphia",
+    "Mexico City"
+   ],
+   "answer": 0,
+   "difficulty": "easy",
+   "fact": "Cam Little made the kick at Tottenham Hotspur Stadium.",
+   "source": "https://africa.espn.com/nfl/recap/_/gameId/401872981",
+   "sourceDate": "2026-10-11",
+   "hint": "Think red buses and black cabs.",
+   "visual": "🏈"
+  },
+  {
+   "id": "week-20261012-11",
+   "question": "Poet Anne Carson won the Literature Nobel on Oct 8. Where is she from?",
+   "options": [
+    "Ireland",
+    "Canada",
+    "Australia",
+    "New Zealand"
+   ],
+   "answer": 1,
+   "difficulty": "medium",
+   "fact": "The Swedish Academy praised her \"bold and inventive\" work, in \"playful dialogue with the classical tradition.\"",
+   "source": "https://www.nobelprize.org/prizes/literature/2026/press-release/",
+   "sourceDate": "2026-10-08",
+   "hint": "Think maple leaf.",
+   "visual": "📚"
+  },
+  {
+   "id": "week-20261012-12",
+   "question": "Alexander Zverev will finish 2026 as the men's tennis No. 1. He's the first man from which country to do it?",
+   "options": [
+    "Germany",
+    "Austria",
+    "Russia",
+    "Croatia"
+   ],
+   "answer": 0,
+   "difficulty": "hard",
+   "fact": "He won the French Open and the US Open this year. He's also the oldest man to finish No. 1 for the first time.",
+   "source": "https://www.atptour.com/en/news/alexander-zverev-clinches-year-end-no-1-2026",
+   "sourceDate": "2026-10-12",
+   "hint": "Think Oktoberfest.",
+   "visual": "🏆"
+  },
+  {
+   "id": "week-20261012-13",
+   "question": "Horror film Other Mommy was No. 1 at the box office Oct 9-11. Who stars?",
+   "options": [
+    "Anne Hathaway",
+    "Jessica Chastain",
+    "Florence Pugh",
+    "Mia Goth"
+   ],
+   "answer": 1,
+   "difficulty": "hard",
+   "fact": "It made $27.5 million in North America. Anne Hathaway's Verity came second.",
+   "source": "https://abcnews.com/Entertainment/wireStory/mommy-tops-box-office-275m-social-reckoning-opens-137178115",
+   "sourceDate": "2026-10-11",
+   "hint": "She won an Oscar for The Eyes of Tammy Faye.",
+   "visual": "👻"
+  },
+  {
+   "id": "week-20261012-14",
+   "question": "As of Oct 11, who leads the F1 drivers' standings?",
+   "options": [
+    "Kimi Antonelli",
+    "George Russell",
+    "Lewis Hamilton",
+    "Max Verstappen"
+   ],
+   "answer": 0,
+   "difficulty": "medium",
+   "fact": "He has 340 points for Mercedes. His teammate George Russell is next with 238.",
+   "source": "https://www.formula1.com/en/results/2026/drivers",
+   "sourceDate": "2026-10-11",
+   "hint": "He drives for Mercedes, and he isn't George.",
+   "visual": "🏁"
+  }
+ ]
+}
